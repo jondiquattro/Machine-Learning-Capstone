@@ -1,5 +1,5 @@
-Name,Attempts,Attempts per Game,Total Yards,Yards Per Carry,Yards Per Game,TDS
-Earl Campbell,"
+Name,team,Attempts,Attempts per Game,Total Yards,Yards Per Carry,Yards Per Game,TDS
+Earl Campbell,HOU,"
 									
 										
 										
@@ -102,7 +102,7 @@ Earl Campbell,"
 										
 									
 								"
-Walter Payton,"
+Walter Payton,CHI,"
 									
 										
 										
@@ -205,7 +205,7 @@ Walter Payton,"
 										
 									
 								"
-Ottis Anderson,"
+Ottis Anderson,STL,"
 									
 										
 										
@@ -308,7 +308,7 @@ Ottis Anderson,"
 										
 									
 								"
-William Andrews,"
+William Andrews,ATL,"
 									
 										
 										
@@ -411,7 +411,7 @@ William Andrews,"
 										
 									
 								"
-Billy Sims,"
+Billy Sims,DET,"
 									
 										
 										
@@ -514,7 +514,7 @@ Billy Sims,"
 										
 									
 								"
-Tony Dorsett,"
+Tony Dorsett,DAL,"
 									
 										
 										
@@ -617,7 +617,7 @@ Tony Dorsett,"
 										
 									
 								"
-Joe Cribbs,"
+Joe Cribbs,BUF,"
 									
 										
 										
@@ -720,7 +720,7 @@ Joe Cribbs,"
 										
 									
 								"
-Wilbert Montgomery,"
+Wilbert Montgomery,PHI,"
 									
 										
 										
@@ -823,7 +823,7 @@ Wilbert Montgomery,"
 										
 									
 								"
-Mike Pruitt,"
+Mike Pruitt,CLE,"
 									
 										
 										
@@ -926,7 +926,7 @@ Mike Pruitt,"
 										
 									
 								"
-Pete Johnson,"
+Pete Johnson,CIN,"
 									
 										
 										
@@ -1029,7 +1029,7 @@ Pete Johnson,"
 										
 									
 								"
-Franco Harris,"
+Franco Harris,PIT,"
 									
 										
 										
@@ -1132,7 +1132,7 @@ Franco Harris,"
 										
 									
 								"
-Chuck Muncie,"
+Chuck Muncie,SD,"
 									
 										
 										
@@ -1235,7 +1235,7 @@ Chuck Muncie,"
 										
 									
 								"
-Elvis Peacock,"
+Elvis Peacock,LA,"
 									
 										
 										
@@ -1338,7 +1338,7 @@ Elvis Peacock,"
 										
 									
 								"
-Lynn Cain,"
+Lynn Cain,ATL,"
 									
 										
 										
@@ -1441,7 +1441,7 @@ Lynn Cain,"
 										
 									
 								"
-Ted Brown,"
+Ted Brown,MIN,"
 									
 										
 										
@@ -1544,7 +1544,7 @@ Ted Brown,"
 										
 									
 								"
-Curtis Dickey,"
+Curtis Dickey,BAL,"
 									
 										
 										
@@ -1647,7 +1647,7 @@ Curtis Dickey,"
 										
 									
 								"
-Billy Taylor,"
+Billy Taylor,NYG,"
 									
 										
 										
@@ -1750,7 +1750,7 @@ Billy Taylor,"
 										
 									
 								"
-Mark van Eeghen,"
+Mark van Eeghen,OAK,"
 									
 										
 										
@@ -1853,7 +1853,7 @@ Mark van Eeghen,"
 										
 									
 								"
-Otis Armstrong,"
+Otis Armstrong,DEN,"
 									
 										
 										
@@ -1956,7 +1956,7 @@ Otis Armstrong,"
 										
 									
 								"
-Eddie Lee Ivery,"
+Eddie Lee Ivery,GB,"
 									
 										
 										
@@ -2059,7 +2059,7 @@ Eddie Lee Ivery,"
 										
 									
 								"
-Vagas Ferguson,"
+Vagas Ferguson,NE,"
 									
 										
 										
@@ -2162,7 +2162,7 @@ Vagas Ferguson,"
 										
 									
 								"
-Kenny King,"
+Kenny King,OAK,"
 									
 										
 										
@@ -2265,7 +2265,7 @@ Kenny King,"
 										
 									
 								"
-Cullen Bryant,"
+Cullen Bryant,LA,"
 									
 										
 										
@@ -2368,7 +2368,7 @@ Cullen Bryant,"
 										
 									
 								"
-Don Calhoun,"
+Don Calhoun,NE,"
 									
 										
 										
@@ -2471,7 +2471,7 @@ Don Calhoun,"
 										
 									
 								"
-Paul Hofer,"
+Paul Hofer,SF,"
 									
 										
 										
@@ -2574,7 +2574,7 @@ Paul Hofer,"
 										
 									
 								"
-Mike Thomas,"
+Mike Thomas,SD,"
 									
 										
 										
@@ -2677,7 +2677,7 @@ Mike Thomas,"
 										
 									
 								"
-Woody Bennett,"
+Woody Bennett,MIA,"
 									
 										
 										
@@ -2780,7 +2780,7 @@ Woody Bennett,"
 										
 									
 								"
-Dexter Bussey,"
+Dexter Bussey,DET,"
 									
 										
 										
@@ -2883,7 +2883,7 @@ Dexter Bussey,"
 										
 									
 								"
-Earl Cooper,"
+Earl Cooper,SF,"
 									
 										
 										
@@ -2986,7 +2986,7 @@ Earl Cooper,"
 										
 									
 								"
-Delvin Williams,"
+Delvin Williams,MIA,"
 									
 										
 										
@@ -3089,7 +3089,7 @@ Delvin Williams,"
 										
 									
 								"
-Wilbur Jackson,"
+Wilbur Jackson,WAS,"
 									
 										
 										
@@ -3192,7 +3192,7 @@ Wilbur Jackson,"
 										
 									
 								"
-Charles Alexander,"
+Charles Alexander,CIN,"
 									
 										
 										
@@ -3295,7 +3295,7 @@ Charles Alexander,"
 										
 									
 								"
-Ted McKnight,"
+Ted McKnight,KC,"
 									
 										
 										
@@ -3398,7 +3398,7 @@ Ted McKnight,"
 										
 									
 								"
-Ricky Bell,"
+Ricky Bell,TB,"
 									
 										
 										
@@ -3501,7 +3501,7 @@ Ricky Bell,"
 										
 									
 								"
-Jim Jodat,"
+Jim Jodat,SEA,"
 									
 										
 										
@@ -3604,7 +3604,7 @@ Jim Jodat,"
 										
 									
 								"
-Wendell Tyler,"
+Wendell Tyler,LA,"
 									
 										
 										
@@ -3707,7 +3707,7 @@ Wendell Tyler,"
 										
 									
 								"
-John Cappelletti,"
+John Cappelletti,SD,"
 									
 										
 										
@@ -3810,7 +3810,7 @@ John Cappelletti,"
 										
 									
 								"
-Gerry Ellis,"
+Gerry Ellis,GB,"
 									
 										
 										
@@ -3913,7 +3913,7 @@ Gerry Ellis,"
 										
 									
 								"
-Scott Dierking,"
+Scott Dierking,NYJ,"
 									
 										
 										
@@ -4016,7 +4016,7 @@ Scott Dierking,"
 										
 									
 								"
-Curtis Brown,"
+Curtis Brown,BUF,"
 									
 										
 										
@@ -4119,7 +4119,7 @@ Curtis Brown,"
 										
 									
 								"
-Clark Gaines,"
+Clark Gaines,NYJ,"
 									
 										
 										
@@ -4222,7 +4222,7 @@ Clark Gaines,"
 										
 									
 								"
-Jim Jensen,"
+Jim Jensen,DEN,"
 									
 										
 										
@@ -4325,7 +4325,7 @@ Jim Jensen,"
 										
 									
 								"
-Roland Harper,"
+Roland Harper,CHI,"
 									
 										
 										
@@ -4428,7 +4428,7 @@ Roland Harper,"
 										
 									
 								"
-Jerry Eckwood,"
+Jerry Eckwood,TB,"
 									
 										
 										
@@ -4531,7 +4531,7 @@ Jerry Eckwood,"
 										
 									
 								"
-Dave Preston,"
+Dave Preston,DEN,"
 									
 										
 										
@@ -4634,7 +4634,7 @@ Dave Preston,"
 										
 									
 								"
-Joe Washington,"
+Joe Washington,BAL,"
 									
 										
 										
@@ -4737,7 +4737,7 @@ Joe Washington,"
 										
 									
 								"
-Sherman Smith,"
+Sherman Smith,SEA,"
 									
 										
 										
@@ -4840,7 +4840,7 @@ Sherman Smith,"
 										
 									
 								"
-Terry Robiskie,"
+Terry Robiskie,MIA,"
 									
 										
 										
@@ -4943,7 +4943,7 @@ Terry Robiskie,"
 										
 									
 								"
-Clarence Harmon,"
+Clarence Harmon,WAS,"
 									
 										
 										
@@ -5046,7 +5046,7 @@ Clarence Harmon,"
 										
 									
 								"
-Wayne Morris,"
+Wayne Morris,STL,"
 									
 										
 										
@@ -5149,7 +5149,7 @@ Wayne Morris,"
 										
 									
 								"
-Robert Newhouse,"
+Robert Newhouse,DAL,"
 									
 										
 										
@@ -5252,7 +5252,7 @@ Robert Newhouse,"
 										
 									
 								"
-Leon Perry,"
+Leon Perry,NYG,"
 									
 										
 										
@@ -5355,7 +5355,7 @@ Leon Perry,"
 										
 									
 								"
-Sidney Thornton,"
+Sidney Thornton,PIT,"
 									
 										
 										
@@ -5458,7 +5458,7 @@ Sidney Thornton,"
 										
 									
 								"
-Jewerl Thomas,"
+Jewerl Thomas,LA,"
 									
 										
 										
@@ -5561,7 +5561,7 @@ Jewerl Thomas,"
 										
 									
 								"
-Larry Heater,"
+Larry Heater,NYG,"
 									
 										
 										
@@ -5664,7 +5664,7 @@ Larry Heater,"
 										
 									
 								"
-Mike Guman,"
+Mike Guman,LA,"
 									
 										
 										
@@ -5767,7 +5767,7 @@ Mike Guman,"
 										
 									
 								"
-Lawrence McCutcheon,"
+Lawrence McCutcheon,SEA,"
 									
 										
 										
@@ -5870,7 +5870,7 @@ Lawrence McCutcheon,"
 										
 									
 								"
-Steve Atkins,"
+Steve Atkins,GB,"
 									
 										
 										
@@ -5973,7 +5973,7 @@ Steve Atkins,"
 										
 									
 								"
-Rob Carpenter,"
+Rob Carpenter,HOU,"
 									
 										
 										
@@ -6076,7 +6076,7 @@ Rob Carpenter,"
 										
 									
 								"
-Kevin Long,"
+Kevin Long,NYJ,"
 									
 										
 										
@@ -6179,7 +6179,7 @@ Kevin Long,"
 										
 									
 								"
-Dan Doornink,"
+Dan Doornink,SEA,"
 									
 										
 										
@@ -6282,7 +6282,7 @@ Dan Doornink,"
 										
 									
 								"
-Don Woods,"
+Don Woods,SF,"
 									
 										
 										
@@ -6385,7 +6385,7 @@ Don Woods,"
 										
 									
 								"
-Jimmy Rogers,"
+Jimmy Rogers,NO,"
 									
 										
 										
@@ -6488,7 +6488,7 @@ Jimmy Rogers,"
 										
 									
 								"
-Lenvil Elliott,"
+Lenvil Elliott,SF,"
 									
 										
 										
@@ -6591,7 +6591,7 @@ Lenvil Elliott,"
 										
 									
 								"
-Leroy Harris,"
+Leroy Harris,PHI,"
 									
 										
 										
@@ -6694,7 +6694,7 @@ Leroy Harris,"
 										
 									
 								"
-Louie Giammona,"
+Louie Giammona,PHI,"
 									
 										
 										
@@ -6797,7 +6797,7 @@ Louie Giammona,"
 										
 									
 								"
-Rickey Young,"
+Rickey Young,MIN,"
 									
 										
 										
@@ -6900,7 +6900,7 @@ Rickey Young,"
 										
 									
 								"
-Ron Springs,"
+Ron Springs,DAL,"
 									
 										
 										
@@ -7003,7 +7003,7 @@ Ron Springs,"
 										
 									
 								"
-Rocky Bleier,"
+Rocky Bleier,PIT,"
 									
 										
 										
@@ -7106,7 +7106,7 @@ Rocky Bleier,"
 										
 									
 								"
-Tony Nathan,"
+Tony Nathan,MIA,"
 									
 										
 										
@@ -7209,7 +7209,7 @@ Tony Nathan,"
 										
 									
 								"
-Cleveland Franklin,"
+Cleveland Franklin,BAL,"
 									
 										
 										
@@ -7312,7 +7312,7 @@ Cleveland Franklin,"
 										
 									
 								"
-Art Whittington,"
+Art Whittington,OAK,"
 									
 										
 										
@@ -7415,7 +7415,7 @@ Art Whittington,"
 										
 									
 								"
-Charles White,"
+Charles White,CLE,"
 									
 										
 										
@@ -7518,7 +7518,7 @@ Charles White,"
 										
 									
 								"
-Clarence Williams,"
+Clarence Williams,SD,"
 									
 										
 										
@@ -7621,7 +7621,7 @@ Clarence Williams,"
 										
 									
 								"
-Horace Belton,"
+Horace Belton,KC,"
 									
 										
 										
@@ -7724,7 +7724,7 @@ Horace Belton,"
 										
 									
 								"
-Tony Galbreath,"
+Tony Galbreath,NO,"
 									
 										
 										
@@ -7827,7 +7827,7 @@ Tony Galbreath,"
 										
 									
 								"
-Jim Hadnot,"
+Jim Hadnot,KC,"
 									
 										
 										
@@ -7930,7 +7930,7 @@ Jim Hadnot,"
 										
 									
 								"
-Tom Newton,"
+Tom Newton,NYJ,"
 									
 										
 										
@@ -8033,7 +8033,7 @@ Tom Newton,"
 										
 									
 								"
-Bobby Hammond,"
+Bobby Hammond,WAS,"
 									
 										
 										
@@ -8136,7 +8136,7 @@ Bobby Hammond,"
 										
 									
 								"
-Archie Griffin,"
+Archie Griffin,CIN,"
 									
 										
 										
@@ -8239,7 +8239,7 @@ Archie Griffin,"
 										
 									
 								"
-Eddie Hill,"
+Eddie Hill,LA,"
 									
 										
 										
@@ -8342,7 +8342,7 @@ Eddie Hill,"
 										
 									
 								"
-Eddie Hicks,"
+Eddie Hicks,NYG,"
 									
 										
 										
@@ -8445,7 +8445,7 @@ Eddie Hicks,"
 										
 									
 								"
-Tim Wilson,"
+Tim Wilson,HOU,"
 									
 										
 										
@@ -8548,7 +8548,7 @@ Tim Wilson,"
 										
 									
 								"
-Greg Hawthorne,"
+Greg Hawthorne,PIT,"
 									
 										
 										
@@ -8651,7 +8651,7 @@ Greg Hawthorne,"
 										
 									
 								"
-Jeff Moore,"
+Jeff Moore,SEA,"
 									
 										
 										
@@ -8754,7 +8754,7 @@ Jeff Moore,"
 										
 									
 								"
-Rickey Claitt,"
+Rickey Claitt,WAS,"
 									
 										
 										
@@ -8857,7 +8857,7 @@ Rickey Claitt,"
 										
 									
 								"
-Rob Lytle,"
+Rob Lytle,DEN,"
 									
 										
 										
@@ -8960,7 +8960,7 @@ Rob Lytle,"
 										
 									
 								"
-Roosevelt Leaks,"
+Roosevelt Leaks,BUF,"
 									
 										
 										
@@ -9063,7 +9063,7 @@ Roosevelt Leaks,"
 										
 									
 								"
-Michael Strachan,"
+Michael Strachan,NO,"
 									
 										
 										
@@ -9166,7 +9166,7 @@ Michael Strachan,"
 										
 									
 								"
-Steve Howell,"
+Steve Howell,MIA,"
 									
 										
 										
@@ -9269,7 +9269,7 @@ Steve Howell,"
 										
 									
 								"
-Jon Keyworth,"
+Jon Keyworth,DEN,"
 									
 										
 										
@@ -9372,7 +9372,7 @@ Jon Keyworth,"
 										
 									
 								"
-Wayne Wilson,"
+Wayne Wilson,NO,"
 									
 										
 										
@@ -9475,7 +9475,7 @@ Wayne Wilson,"
 										
 									
 								"
-Bo Matthews,"
+Bo Matthews,NYG,"
 									
 										
 										
@@ -9578,7 +9578,7 @@ Bo Matthews,"
 										
 									
 								"
-Tony Reed,"
+Tony Reed,KC,"
 									
 										
 										
@@ -9681,7 +9681,7 @@ Tony Reed,"
 										
 									
 								"
-Terdell Middleton,"
+Terdell Middleton,GB,"
 									
 										
 										
@@ -9784,7 +9784,7 @@ Terdell Middleton,"
 										
 									
 								"
-Perry Harrington,"
+Perry Harrington,PHI,"
 									
 										
 										
@@ -9887,7 +9887,7 @@ Perry Harrington,"
 										
 									
 								"
-Theotis Brown,"
+Theotis Brown,STL,"
 									
 										
 										
@@ -9990,7 +9990,7 @@ Theotis Brown,"
 										
 									
 								"
-Marvin Sims,"
+Marvin Sims,BAL,"
 									
 										
 										
@@ -10093,7 +10093,7 @@ Marvin Sims,"
 										
 									
 								"
-Arnold Morgado,"
+Arnold Morgado,KC,"
 									
 										
 										
@@ -10196,7 +10196,7 @@ Arnold Morgado,"
 										
 									
 								"
-Deacon Turner,"
+Deacon Turner,CIN,"
 									
 										
 										
@@ -10299,7 +10299,7 @@ Deacon Turner,"
 										
 									
 								"
-Willard Harrell,"
+Willard Harrell,STL,"
 									
 										
 										
@@ -10402,7 +10402,7 @@ Willard Harrell,"
 										
 									
 								"
-Russell Davis,"
+Russell Davis,PIT,"
 									
 										
 										
@@ -10505,7 +10505,7 @@ Russell Davis,"
 										
 									
 								"
-Johnny Davis,"
+Johnny Davis,TB,"
 									
 										
 										
@@ -10608,7 +10608,7 @@ Johnny Davis,"
 										
 									
 								"
-Buddy Hardeman,"
+Buddy Hardeman,WAS,"
 									
 										
 										
@@ -10711,7 +10711,7 @@ Buddy Hardeman,"
 										
 									
 								"
-Cleo Miller,"
+Cleo Miller,CLE,"
 									
 										
 										
@@ -10814,7 +10814,7 @@ Cleo Miller,"
 										
 									
 								"
-James Jones,"
+James Jones,DAL,"
 									
 										
 										
@@ -10917,7 +10917,7 @@ James Jones,"
 										
 									
 								"
-Bruce Harper,"
+Bruce Harper,NYJ,"
 									
 										
 										
@@ -11020,7 +11020,7 @@ Bruce Harper,"
 										
 									
 								"
-Don McCauley,"
+Don McCauley,BAL,"
 									
 										
 										
@@ -11123,7 +11123,7 @@ Don McCauley,"
 										
 									
 								"
-Rick Berns,"
+Rick Berns,TB,"
 									
 										
 										
@@ -11226,7 +11226,7 @@ Rick Berns,"
 										
 									
 								"
-Larry Brinson,"
+Larry Brinson,SEA,"
 									
 										
 										
@@ -11329,7 +11329,7 @@ Larry Brinson,"
 										
 									
 								"
-Billy Campfield,"
+Billy Campfield,PHI,"
 									
 										
 										
@@ -11432,7 +11432,7 @@ Billy Campfield,"
 										
 									
 								"
-Earl Gant,"
+Earl Gant,KC,"
 									
 										
 										
@@ -11535,7 +11535,7 @@ Earl Gant,"
 										
 									
 								"
-Lydell Mitchell,"
+Lydell Mitchell,LA,"
 									
 										
 										
@@ -11638,7 +11638,7 @@ Lydell Mitchell,"
 										
 									
 								"
-Horace Ivory,"
+Horace Ivory,NE,"
 									
 										
 										
@@ -11741,7 +11741,7 @@ Horace Ivory,"
 										
 									
 								"
-Rick Kane,"
+Rick Kane,DET,"
 									
 										
 										
@@ -11844,7 +11844,7 @@ Rick Kane,"
 										
 									
 								"
-Mike Hogan,"
+Mike Hogan,NYG,"
 									
 										
 										
@@ -11947,7 +11947,7 @@ Mike Hogan,"
 										
 									
 								"
-Jack Holmes,"
+Jack Holmes,NO,"
 									
 										
 										
@@ -12050,7 +12050,7 @@ Jack Holmes,"
 										
 									
 								"
-Roland Hooks,"
+Roland Hooks,BUF,"
 									
 										
 										
@@ -12153,7 +12153,7 @@ Roland Hooks,"
 										
 									
 								"
-Greg Pruitt,"
+Greg Pruitt,CLE,"
 									
 										
 										
@@ -12256,7 +12256,7 @@ Greg Pruitt,"
 										
 									
 								"
-Phil Francis,"
+Phil Francis,SF,"
 									
 										
 										
@@ -12359,7 +12359,7 @@ Phil Francis,"
 										
 									
 								"
-Robert Miller,"
+Robert Miller,MIN,"
 									
 										
 										
@@ -12462,7 +12462,7 @@ Robert Miller,"
 										
 									
 								"
-Mosi Tatupu,"
+Mosi Tatupu,NE,"
 									
 										
 										
@@ -12565,7 +12565,7 @@ Mosi Tatupu,"
 										
 									
 								"
-Ronnie Coleman,"
+Ronnie Coleman,HOU,"
 									
 										
 										
@@ -12668,7 +12668,7 @@ Ronnie Coleman,"
 										
 									
 								"
-James Mayberry,"
+James Mayberry,ATL,"
 									
 										
 										
@@ -12771,7 +12771,7 @@ James Mayberry,"
 										
 									
 								"
-Willie McClendon,"
+Willie McClendon,CHI,"
 									
 										
 										
@@ -12874,7 +12874,7 @@ Willie McClendon,"
 										
 									
 								"
-Allan Clark,"
+Allan Clark,NE,"
 									
 										
 										
@@ -12977,7 +12977,7 @@ Allan Clark,"
 										
 									
 								"
-Timmy Newsome,"
+Timmy Newsome,DAL,"
 									
 										
 										
@@ -13080,7 +13080,7 @@ Timmy Newsome,"
 										
 									
 								"
-Ike Forte,"
+Ike Forte,WAS,"
 									
 										
 										
@@ -13183,7 +13183,7 @@ Ike Forte,"
 										
 									
 								"
-Chuck Foreman,"
+Chuck Foreman,NE,"
 									
 										
 										
@@ -13286,7 +13286,7 @@ Chuck Foreman,"
 										
 									
 								"
-Horace King,"
+Horace King,DET,"
 									
 										
 										
@@ -13389,7 +13389,7 @@ Horace King,"
 										
 									
 								"
-Dave Williams,"
+Dave Williams,CHI,"
 									
 										
 										
@@ -13492,7 +13492,7 @@ Dave Williams,"
 										
 									
 								"
-John Skibinski,"
+John Skibinski,CHI,"
 									
 										
 										
@@ -13595,7 +13595,7 @@ John Skibinski,"
 										
 									
 								"
-Doug Paschal,"
+Doug Paschal,MIN,"
 									
 										
 										
@@ -13698,7 +13698,7 @@ Doug Paschal,"
 										
 									
 								"
-Barty Smith,"
+Barty Smith,GB,"
 									
 										
 										
@@ -13801,7 +13801,7 @@ Barty Smith,"
 										
 									
 								"
-Ray Williams,"
+Ray Williams,DET,"
 									
 										
 										
@@ -13904,7 +13904,7 @@ Ray Williams,"
 										
 									
 								"
-Matt Suhey,"
+Matt Suhey,CHI,"
 									
 										
 										
@@ -14007,7 +14007,7 @@ Matt Suhey,"
 										
 									
 								"
-Booker Russell,"
+Booker Russell,SD,"
 									
 										
 										
@@ -14110,7 +14110,7 @@ Booker Russell,"
 										
 									
 								"
-Ray Strong,"
+Ray Strong,ATL,"
 									
 										
 										
@@ -14213,7 +14213,7 @@ Ray Strong,"
 										
 									
 								"
-Terry Miller,"
+Terry Miller,BUF,"
 									
 										
 										
@@ -14316,7 +14316,7 @@ Terry Miller,"
 										
 									
 								"
-Hank Bauer,"
+Hank Bauer,SD,"
 									
 										
 										
@@ -14419,7 +14419,7 @@ Hank Bauer,"
 										
 									
 								"
-Derrick Jensen,"
+Derrick Jensen,OAK,"
 									
 										
 										
@@ -14522,7 +14522,7 @@ Derrick Jensen,"
 										
 									
 								"
-Dino Hall,"
+Dino Hall,CLE,"
 									
 										
 										
@@ -14625,7 +14625,7 @@ Dino Hall,"
 										
 									
 								"
-Andy Johnson,"
+Andy Johnson,NE,"
 									
 										
 										
@@ -14728,7 +14728,7 @@ Andy Johnson,"
 										
 									
 								"
-Tony Davis,"
+Tony Davis,TB,"
 									
 										
 										
@@ -14831,7 +14831,7 @@ Tony Davis,"
 										
 									
 								"
-Al Hunter,"
+Al Hunter,SEA,"
 									
 										
 										
@@ -14934,7 +14934,7 @@ Al Hunter,"
 										
 									
 								"
-Scott Laidlaw,"
+Scott Laidlaw,NYG,"
 									
 										
 										
@@ -15037,7 +15037,7 @@ Scott Laidlaw,"
 										
 									
 								"
-Gary Davis,"
+Gary Davis,TB,"
 									
 										
 										
@@ -15140,7 +15140,7 @@ Gary Davis,"
 										
 									
 								"
-Nick Giaquinto,"
+Nick Giaquinto,MIA,"
 									
 										
 										
@@ -15243,7 +15243,7 @@ Nick Giaquinto,"
 										
 									
 								"
-Frank Pollard,"
+Frank Pollard,PIT,"
 									
 										
 										
@@ -15346,7 +15346,7 @@ Frank Pollard,"
 										
 									
 								"
-Don Testerman,"
+Don Testerman,MIA,"
 									
 										
 										
@@ -15449,7 +15449,7 @@ Don Testerman,"
 										
 									
 								"
-Jim Walsh,"
+Jim Walsh,SEA,"
 									
 										
 										
@@ -15552,7 +15552,7 @@ Jim Walsh,"
 										
 									
 								"
-Eddie Payton,"
+Eddie Payton,MIN,"
 									
 										
 										
@@ -15655,7 +15655,7 @@ Eddie Payton,"
 										
 									
 								"
-Calvin Hill,"
+Calvin Hill,CLE,"
 									
 										
 										
@@ -15758,7 +15758,7 @@ Calvin Hill,"
 										
 									
 								"
-Vickey Ray Anderson,"
+Vickey Ray Anderson,GB,"
 									
 										
 										
@@ -15861,7 +15861,7 @@ Vickey Ray Anderson,"
 										
 									
 								"
-Harlan Huckleby,"
+Harlan Huckleby,GB,"
 									
 										
 										
@@ -15957,6 +15957,1139 @@ Harlan Huckleby,"
 														
 														
 															0.7
+														
+													
+												
+											
+										
+									
+								"
+Ira Matthews,OAK,"
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															5
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.3
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															11
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															2.2
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.7
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.7
+														
+													
+												
+											
+										
+									
+								"
+Preston Pearson,DAL,"
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															3
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.3
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															6
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															2.0
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.5
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.5
+														
+													
+												
+											
+										
+									
+								"
+Bobby Batton,NYJ,"
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															3
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.4
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															4
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															1.3
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.5
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.5
+														
+													
+												
+											
+										
+									
+								"
+Boobie Clark,HOU,"
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															1
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.2
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															3
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															3.0
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.5
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.5
+														
+													
+												
+											
+										
+									
+								"
+Rod Phillips,STL,"
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															2
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.1
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															6
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															3.0
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.4
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.4
+														
+													
+												
+											
+										
+									
+								"
+Nathan Poole,CIN,"
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															5
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.3
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															6
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															1.2
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.4
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.4
+														
+													
+												
+											
+										
+									
+								"
+Anthony Anderson,ATL,"
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															6
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.4
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															5
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.8
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.3
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.3
+														
+													
+												
+											
+										
+									
+								"
+Randy Love,STL,"
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															1
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.1
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															3
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															3.0
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.2
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.2
+														
+													
+												
+											
+										
+									
+								"
+Bo Robinson,DET,"
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															3
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.2
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															2
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.7
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.1
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.1
+														
+													
+												
+											
+										
+									
+								"
+Ricky Patton,SF,"
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															1
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.1
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															1
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															1.0
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.1
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															0.1
+														
+													
+												
+											
+										
+									
+								"
+LaRue Harrington,SD,"
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															4
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															1.0
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															-7
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															-1.8
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															-1.8
+														
+													
+												
+											
+										
+									
+								","
+									
+										
+										
+											
+												
+												
+													
+														
+														
+															-1.8
 														
 													
 												

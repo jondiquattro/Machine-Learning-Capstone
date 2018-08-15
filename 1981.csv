@@ -1,5 +1,5 @@
-Name,Attempts,Attempts per Game,Total Yards,Yards Per Carry,Yards Per Game,TDS
-George Rogers,"
+Name,team,Attempts,Attempts per Game,Total Yards,Yards Per Carry,Yards Per Game,TDS
+George Rogers,NO,"
 									
 										
 										
@@ -102,7 +102,7 @@ George Rogers,"
 										
 									
 								"
-Tony Dorsett,"
+Tony Dorsett,DAL,"
 									
 										
 										
@@ -205,7 +205,7 @@ Tony Dorsett,"
 										
 									
 								"
-Billy Sims,"
+Billy Sims,DET,"
 									
 										
 										
@@ -308,7 +308,7 @@ Billy Sims,"
 										
 									
 								"
-Wilbert Montgomery,"
+Wilbert Montgomery,PHI,"
 									
 										
 										
@@ -411,7 +411,7 @@ Wilbert Montgomery,"
 										
 									
 								"
-Ottis Anderson,"
+Ottis Anderson,STL,"
 									
 										
 										
@@ -514,7 +514,7 @@ Ottis Anderson,"
 										
 									
 								"
-Earl Campbell,"
+Earl Campbell,HOU,"
 									
 										
 										
@@ -617,7 +617,7 @@ Earl Campbell,"
 										
 									
 								"
-William Andrews,"
+William Andrews,ATL,"
 									
 										
 										
@@ -720,7 +720,7 @@ William Andrews,"
 										
 									
 								"
-Walter Payton,"
+Walter Payton,CHI,"
 									
 										
 										
@@ -823,7 +823,7 @@ Walter Payton,"
 										
 									
 								"
-Chuck Muncie,"
+Chuck Muncie,SD,"
 									
 										
 										
@@ -926,7 +926,7 @@ Chuck Muncie,"
 										
 									
 								"
-Rob Carpenter,"
+Rob Carpenter,NYG,"
 									
 										
 										
@@ -1029,7 +1029,7 @@ Rob Carpenter,"
 										
 									
 								"
-Joe Delaney,"
+Joe Delaney,KC,"
 									
 										
 										
@@ -1132,7 +1132,7 @@ Joe Delaney,"
 										
 									
 								"
-Joe Cribbs,"
+Joe Cribbs,BUF,"
 									
 										
 										
@@ -1235,7 +1235,7 @@ Joe Cribbs,"
 										
 									
 								"
-Eddie Lee Ivery,"
+Eddie Lee Ivery,GB,"
 									
 										
 										
@@ -1338,7 +1338,7 @@ Eddie Lee Ivery,"
 										
 									
 								"
-Wendell Tyler,"
+Wendell Tyler,LA,"
 									
 										
 										
@@ -1441,7 +1441,7 @@ Wendell Tyler,"
 										
 									
 								"
-Mike Pruitt,"
+Mike Pruitt,CLE,"
 									
 										
 										
@@ -1544,7 +1544,7 @@ Mike Pruitt,"
 										
 									
 								"
-Pete Johnson,"
+Pete Johnson,CIN,"
 									
 										
 										
@@ -1647,7 +1647,7 @@ Pete Johnson,"
 										
 									
 								"
-Ted Brown,"
+Ted Brown,MIN,"
 									
 										
 										
@@ -1750,7 +1750,7 @@ Ted Brown,"
 										
 									
 								"
-Joe Washington,"
+Joe Washington,WAS,"
 									
 										
 										
@@ -1853,7 +1853,7 @@ Joe Washington,"
 										
 									
 								"
-Franco Harris,"
+Franco Harris,PIT,"
 									
 										
 										
@@ -1956,7 +1956,7 @@ Franco Harris,"
 										
 									
 								"
-Tony Nathan,"
+Tony Nathan,MIA,"
 									
 										
 										
@@ -2059,7 +2059,7 @@ Tony Nathan,"
 										
 									
 								"
-Kenny King,"
+Kenny King,OAK,"
 									
 										
 										
@@ -2162,7 +2162,7 @@ Kenny King,"
 										
 									
 								"
-Freeman McNeil,"
+Freeman McNeil,NYJ,"
 									
 										
 										
@@ -2265,7 +2265,7 @@ Freeman McNeil,"
 										
 									
 								"
-Tony Collins,"
+Tony Collins,NE,"
 									
 										
 										
@@ -2368,7 +2368,7 @@ Tony Collins,"
 										
 									
 								"
-Gerry Ellis,"
+Gerry Ellis,GB,"
 									
 										
 										
@@ -2471,7 +2471,7 @@ Gerry Ellis,"
 										
 									
 								"
-Theotis Brown,"
+Theotis Brown,SEA,"
 									
 										
 										
@@ -2574,7 +2574,7 @@ Theotis Brown,"
 										
 									
 								"
-Curtis Dickey,"
+Curtis Dickey,BAL,"
 									
 										
 										
@@ -2677,7 +2677,7 @@ Curtis Dickey,"
 										
 									
 								"
-John Riggins,"
+John Riggins,WAS,"
 									
 										
 										
@@ -2780,7 +2780,7 @@ John Riggins,"
 										
 									
 								"
-Rick Parros,"
+Rick Parros,DEN,"
 									
 										
 										
@@ -2883,7 +2883,7 @@ Rick Parros,"
 										
 									
 								"
-Andra Franklin,"
+Andra Franklin,MIA,"
 									
 										
 										
@@ -2986,7 +2986,7 @@ Andra Franklin,"
 										
 									
 								"
-Frank Pollard,"
+Frank Pollard,PIT,"
 									
 										
 										
@@ -3089,7 +3089,7 @@ Frank Pollard,"
 										
 									
 								"
-Jerry Eckwood,"
+Jerry Eckwood,TB,"
 									
 										
 										
@@ -3192,7 +3192,7 @@ Jerry Eckwood,"
 										
 									
 								"
-Dave Preston,"
+Dave Preston,DEN,"
 									
 										
 										
@@ -3295,7 +3295,7 @@ Dave Preston,"
 										
 									
 								"
-Ron Springs,"
+Ron Springs,DAL,"
 									
 										
 										
@@ -3398,7 +3398,7 @@ Ron Springs,"
 										
 									
 								"
-Ted McKnight,"
+Ted McKnight,KC,"
 									
 										
 										
@@ -3501,7 +3501,7 @@ Ted McKnight,"
 										
 									
 								"
-Jim Hadnot,"
+Jim Hadnot,KC,"
 									
 										
 										
@@ -3604,7 +3604,7 @@ Jim Hadnot,"
 										
 									
 								"
-James Brooks,"
+James Brooks,SD,"
 									
 										
 										
@@ -3707,7 +3707,7 @@ James Brooks,"
 										
 									
 								"
-Randy McMillan,"
+Randy McMillan,BAL,"
 									
 										
 										
@@ -3810,7 +3810,7 @@ Randy McMillan,"
 										
 									
 								"
-Wilbur Jackson,"
+Wilbur Jackson,WAS,"
 									
 										
 										
@@ -3913,7 +3913,7 @@ Wilbur Jackson,"
 										
 									
 								"
-Perry Harrington,"
+Perry Harrington,PHI,"
 									
 										
 										
@@ -4016,7 +4016,7 @@ Perry Harrington,"
 										
 									
 								"
-Matt Suhey,"
+Matt Suhey,CHI,"
 									
 										
 										
@@ -4119,7 +4119,7 @@ Matt Suhey,"
 										
 									
 								"
-Woody Bennett,"
+Woody Bennett,MIA,"
 									
 										
 										
@@ -4222,7 +4222,7 @@ Woody Bennett,"
 										
 									
 								"
-Ricky Patton,"
+Ricky Patton,SF,"
 									
 										
 										
@@ -4325,7 +4325,7 @@ Ricky Patton,"
 										
 									
 								"
-Mike Augustyniak,"
+Mike Augustyniak,NYJ,"
 									
 										
 										
@@ -4428,7 +4428,7 @@ Mike Augustyniak,"
 										
 									
 								"
-Lynn Cain,"
+Lynn Cain,ATL,"
 									
 										
 										
@@ -4531,7 +4531,7 @@ Lynn Cain,"
 										
 									
 								"
-Cullen Bryant,"
+Cullen Bryant,LA,"
 									
 										
 										
@@ -4634,7 +4634,7 @@ Cullen Bryant,"
 										
 									
 								"
-Derrick Jensen,"
+Derrick Jensen,OAK,"
 									
 										
 										
@@ -4737,7 +4737,7 @@ Derrick Jensen,"
 										
 									
 								"
-Dexter Bussey,"
+Dexter Bussey,DET,"
 									
 										
 										
@@ -4840,7 +4840,7 @@ Dexter Bussey,"
 										
 									
 								"
-Mike Guman,"
+Mike Guman,LA,"
 									
 										
 										
@@ -4943,7 +4943,7 @@ Mike Guman,"
 										
 									
 								"
-Vagas Ferguson,"
+Vagas Ferguson,NE,"
 									
 										
 										
@@ -5046,7 +5046,7 @@ Vagas Ferguson,"
 										
 									
 								"
-Wayne Morris,"
+Wayne Morris,STL,"
 									
 										
 										
@@ -5149,7 +5149,7 @@ Wayne Morris,"
 										
 									
 								"
-James Owens,"
+James Owens,TB,"
 									
 										
 										
@@ -5252,7 +5252,7 @@ James Owens,"
 										
 									
 								"
-Hubie Oliver,"
+Hubie Oliver,PHI,"
 									
 										
 										
@@ -5355,7 +5355,7 @@ Hubie Oliver,"
 										
 									
 								"
-Billy Jackson,"
+Billy Jackson,KC,"
 									
 										
 										
@@ -5458,7 +5458,7 @@ Billy Jackson,"
 										
 									
 								"
-Bruce Harper,"
+Bruce Harper,NYJ,"
 									
 										
 										
@@ -5561,7 +5561,7 @@ Bruce Harper,"
 										
 									
 								"
-Sam Cunningham,"
+Sam Cunningham,NE,"
 									
 										
 										
@@ -5664,7 +5664,7 @@ Sam Cunningham,"
 										
 									
 								"
-Harlan Huckleby,"
+Harlan Huckleby,GB,"
 									
 										
 										
@@ -5767,7 +5767,7 @@ Harlan Huckleby,"
 										
 									
 								"
-James Wilder,"
+James Wilder,TB,"
 									
 										
 										
@@ -5870,7 +5870,7 @@ James Wilder,"
 										
 									
 								"
-Lawrence McCutcheon,"
+Lawrence McCutcheon,BUF,"
 									
 										
 										
@@ -5973,7 +5973,7 @@ Lawrence McCutcheon,"
 										
 									
 								"
-Roosevelt Leaks,"
+Roosevelt Leaks,BUF,"
 									
 										
 										
@@ -6076,7 +6076,7 @@ Roosevelt Leaks,"
 										
 									
 								"
-Doug Kotar,"
+Doug Kotar,NYG,"
 									
 										
 										
@@ -6179,7 +6179,7 @@ Doug Kotar,"
 										
 									
 								"
-Charles White,"
+Charles White,CLE,"
 									
 										
 										
@@ -6282,7 +6282,7 @@ Charles White,"
 										
 									
 								"
-Steve Atkins,"
+Steve Atkins,PHI,"
 									
 										
 										
@@ -6385,7 +6385,7 @@ Steve Atkins,"
 										
 									
 								"
-Rick Kane,"
+Rick Kane,DET,"
 									
 										
 										
@@ -6488,7 +6488,7 @@ Rick Kane,"
 										
 									
 								"
-Earl Cooper,"
+Earl Cooper,SF,"
 									
 										
 										
@@ -6591,7 +6591,7 @@ Earl Cooper,"
 										
 									
 								"
-Scott Dierking,"
+Scott Dierking,NYJ,"
 									
 										
 										
@@ -6694,7 +6694,7 @@ Scott Dierking,"
 										
 									
 								"
-Charles Alexander,"
+Charles Alexander,CIN,"
 									
 										
 										
@@ -6797,7 +6797,7 @@ Charles Alexander,"
 										
 									
 								"
-Calvin Murray,"
+Calvin Murray,PHI,"
 									
 										
 										
@@ -6900,7 +6900,7 @@ Calvin Murray,"
 										
 									
 								"
-Mark van Eeghen,"
+Mark van Eeghen,OAK,"
 									
 										
 										
@@ -7003,7 +7003,7 @@ Mark van Eeghen,"
 										
 									
 								"
-Walt Easley,"
+Walt Easley,SF,"
 									
 										
 										
@@ -7106,7 +7106,7 @@ Walt Easley,"
 										
 									
 								"
-Johnny Davis,"
+Johnny Davis,SF,"
 									
 										
 										
@@ -7209,7 +7209,7 @@ Johnny Davis,"
 										
 									
 								"
-Zachary Dixon,"
+Zachary Dixon,BAL,"
 									
 										
 										
@@ -7312,7 +7312,7 @@ Zachary Dixon,"
 										
 									
 								"
-Russell Davis,"
+Russell Davis,PIT,"
 									
 										
 										
@@ -7415,7 +7415,7 @@ Russell Davis,"
 										
 									
 								"
-Kevin Long,"
+Kevin Long,NYJ,"
 									
 										
 										
@@ -7518,7 +7518,7 @@ Kevin Long,"
 										
 									
 								"
-Vince Thompson,"
+Vince Thompson,DET,"
 									
 										
 										
@@ -7621,7 +7621,7 @@ Vince Thompson,"
 										
 									
 								"
-Curtis Brown,"
+Curtis Brown,BUF,"
 									
 										
 										
@@ -7724,7 +7724,7 @@ Curtis Brown,"
 										
 									
 								"
-Paul Hofer,"
+Paul Hofer,SF,"
 									
 										
 										
@@ -7827,7 +7827,7 @@ Paul Hofer,"
 										
 									
 								"
-Leon Perry,"
+Leon Perry,NYG,"
 									
 										
 										
@@ -7930,7 +7930,7 @@ Leon Perry,"
 										
 									
 								"
-John Cappelletti,"
+John Cappelletti,SD,"
 									
 										
 										
@@ -8033,7 +8033,7 @@ John Cappelletti,"
 										
 									
 								"
-Sherman Smith,"
+Sherman Smith,SEA,"
 									
 										
 										
@@ -8136,7 +8136,7 @@ Sherman Smith,"
 										
 									
 								"
-Roland Hooks,"
+Roland Hooks,BUF,"
 									
 										
 										
@@ -8239,7 +8239,7 @@ Roland Hooks,"
 										
 									
 								"
-Tom Newton,"
+Tom Newton,NYJ,"
 									
 										
 										
@@ -8342,7 +8342,7 @@ Tom Newton,"
 										
 									
 								"
-Ike Forte,"
+Ike Forte,NYG,"
 									
 										
 										
@@ -8445,7 +8445,7 @@ Ike Forte,"
 										
 									
 								"
-Don Calhoun,"
+Don Calhoun,NE,"
 									
 										
 										
@@ -8548,7 +8548,7 @@ Don Calhoun,"
 										
 									
 								"
-Tony Galbreath,"
+Tony Galbreath,MIN,"
 									
 										
 										
@@ -8651,7 +8651,7 @@ Tony Galbreath,"
 										
 									
 								"
-Cleo Miller,"
+Cleo Miller,CLE,"
 									
 										
 										
@@ -8754,7 +8754,7 @@ Cleo Miller,"
 										
 									
 								"
-Art Whittington,"
+Art Whittington,OAK,"
 									
 										
 										
@@ -8857,7 +8857,7 @@ Art Whittington,"
 										
 									
 								"
-Eddie Hill,"
+Eddie Hill,MIA,"
 									
 										
 										
@@ -8960,7 +8960,7 @@ Eddie Hill,"
 										
 									
 								"
-Leon Bright,"
+Leon Bright,NYG,"
 									
 										
 										
@@ -9063,7 +9063,7 @@ Leon Bright,"
 										
 									
 								"
-Dan Doornink,"
+Dan Doornink,SEA,"
 									
 										
 										
@@ -9166,7 +9166,7 @@ Dan Doornink,"
 										
 									
 								"
-Terdell Middleton,"
+Terdell Middleton,GB,"
 									
 										
 										
@@ -9269,7 +9269,7 @@ Terdell Middleton,"
 										
 									
 								"
-Frank Hawkins,"
+Frank Hawkins,OAK,"
 									
 										
 										
@@ -9372,7 +9372,7 @@ Frank Hawkins,"
 										
 									
 								"
-Sidney Thornton,"
+Sidney Thornton,PIT,"
 									
 										
 										
@@ -9475,7 +9475,7 @@ Sidney Thornton,"
 										
 									
 								"
-Mosi Tatupu,"
+Mosi Tatupu,NE,"
 									
 										
 										
@@ -9578,7 +9578,7 @@ Mosi Tatupu,"
 										
 									
 								"
-Louie Giammona,"
+Louie Giammona,PHI,"
 									
 										
 										
@@ -9681,7 +9681,7 @@ Louie Giammona,"
 										
 									
 								"
-Nick Giaquinto,"
+Nick Giaquinto,WAS,"
 									
 										
 										
@@ -9784,7 +9784,7 @@ Nick Giaquinto,"
 										
 									
 								"
-Jack Holmes,"
+Jack Holmes,NO,"
 									
 										
 										
@@ -9887,7 +9887,7 @@ Jack Holmes,"
 										
 									
 								"
-James Jones,"
+James Jones,DAL,"
 									
 										
 										
@@ -9990,7 +9990,7 @@ James Jones,"
 										
 									
 								"
-Toussaint Tyler,"
+Toussaint Tyler,NO,"
 									
 										
 										
@@ -10093,7 +10093,7 @@ Toussaint Tyler,"
 										
 									
 								"
-Ricky Bell,"
+Ricky Bell,TB,"
 									
 										
 										
@@ -10196,7 +10196,7 @@ Ricky Bell,"
 										
 									
 								"
-Stump Mitchell,"
+Stump Mitchell,STL,"
 									
 										
 										
@@ -10299,7 +10299,7 @@ Stump Mitchell,"
 										
 									
 								"
-Tony Reed,"
+Tony Reed,DEN,"
 									
 										
 										
@@ -10402,7 +10402,7 @@ Tony Reed,"
 										
 									
 								"
-Booker Russell,"
+Booker Russell,PHI,"
 									
 										
 										
@@ -10505,7 +10505,7 @@ Booker Russell,"
 										
 									
 								"
-Archie Griffin,"
+Archie Griffin,CIN,"
 									
 										
 										
@@ -10608,7 +10608,7 @@ Archie Griffin,"
 										
 									
 								"
-Adger Armstrong,"
+Adger Armstrong,HOU,"
 									
 										
 										
@@ -10711,7 +10711,7 @@ Adger Armstrong,"
 										
 									
 								"
-Jim Jodat,"
+Jim Jodat,SEA,"
 									
 										
 										
@@ -10814,7 +10814,7 @@ Jim Jodat,"
 										
 									
 								"
-Bill Ring,"
+Bill Ring,SF,"
 									
 										
 										
@@ -10917,7 +10917,7 @@ Bill Ring,"
 										
 									
 								"
-Wayne Wilson,"
+Wayne Wilson,NO,"
 									
 										
 										
@@ -11020,7 +11020,7 @@ Wayne Wilson,"
 										
 									
 								"
-David Hughes,"
+David Hughes,SEA,"
 									
 										
 										
@@ -11123,7 +11123,7 @@ David Hughes,"
 										
 									
 								"
-Greg Pruitt,"
+Greg Pruitt,CLE,"
 									
 										
 										
@@ -11226,7 +11226,7 @@ Greg Pruitt,"
 										
 									
 								"
-Rickey Young,"
+Rickey Young,MIN,"
 									
 										
 										
@@ -11329,7 +11329,7 @@ Rickey Young,"
 										
 									
 								"
-Jewerl Thomas,"
+Jewerl Thomas,LA,"
 									
 										
 										
@@ -11432,7 +11432,7 @@ Jewerl Thomas,"
 										
 									
 								"
-Jeff Moore,"
+Jeff Moore,SEA,"
 									
 										
 										
@@ -11535,7 +11535,7 @@ Jeff Moore,"
 										
 									
 								"
-Lenvil Elliott,"
+Lenvil Elliott,SF,"
 									
 										
 										
@@ -11638,7 +11638,7 @@ Lenvil Elliott,"
 										
 									
 								"
-Tommy Vigorito,"
+Tommy Vigorito,MIA,"
 									
 										
 										
@@ -11741,7 +11741,7 @@ Tommy Vigorito,"
 										
 									
 								"
-Billy Campfield,"
+Billy Campfield,PHI,"
 									
 										
 										
@@ -11844,7 +11844,7 @@ Billy Campfield,"
 										
 									
 								"
-Roland Harper,"
+Roland Harper,CHI,"
 									
 										
 										
@@ -11947,7 +11947,7 @@ Roland Harper,"
 										
 									
 								"
-Larry Canada,"
+Larry Canada,DEN,"
 									
 										
 										
@@ -12050,7 +12050,7 @@ Larry Canada,"
 										
 									
 								"
-Jarvis Redwine,"
+Jarvis Redwine,MIN,"
 									
 										
 										
@@ -12153,7 +12153,7 @@ Jarvis Redwine,"
 										
 									
 								"
-Rob Lytle,"
+Rob Lytle,DEN,"
 									
 										
 										
@@ -12256,7 +12256,7 @@ Rob Lytle,"
 										
 									
 								"
-Horace Ivory,"
+Horace Ivory,SEA,"
 									
 										
 										
@@ -12359,7 +12359,7 @@ Horace Ivory,"
 										
 									
 								"
-Louis Jackson,"
+Louis Jackson,NYG,"
 									
 										
 										
@@ -12462,7 +12462,7 @@ Louis Jackson,"
 										
 									
 								"
-Greg Hawthorne,"
+Greg Hawthorne,PIT,"
 									
 										
 										
@@ -12565,7 +12565,7 @@ Greg Hawthorne,"
 										
 									
 								"
-Cleveland Franklin,"
+Cleveland Franklin,BAL,"
 									
 										
 										
@@ -12668,7 +12668,7 @@ Cleveland Franklin,"
 										
 									
 								"
-Ronnie Coleman,"
+Ronnie Coleman,HOU,"
 									
 										
 										
@@ -12771,7 +12771,7 @@ Ronnie Coleman,"
 										
 									
 								"
-Jim Jensen,"
+Jim Jensen,GB,"
 									
 										
 										
@@ -12874,7 +12874,7 @@ Jim Jensen,"
 										
 									
 								"
-Curtis Bledsoe,"
+Curtis Bledsoe,KC,"
 									
 										
 										
@@ -12977,7 +12977,7 @@ Curtis Bledsoe,"
 										
 									
 								"
-Willie McClendon,"
+Willie McClendon,CHI,"
 									
 										
 										
@@ -13080,7 +13080,7 @@ Willie McClendon,"
 										
 									
 								"
-Jim Hargrove,"
+Jim Hargrove,CIN,"
 									
 										
 										
@@ -13183,7 +13183,7 @@ Jim Hargrove,"
 										
 									
 								"
-James Mayberry,"
+James Mayberry,ATL,"
 									
 										
 										
@@ -13286,7 +13286,7 @@ James Mayberry,"
 										
 									
 								"
-Terry Miller,"
+Terry Miller,SEA,"
 									
 										
 										
@@ -13389,7 +13389,7 @@ Terry Miller,"
 										
 									
 								"
-Terry Metcalf,"
+Terry Metcalf,WAS,"
 									
 										
 										
@@ -13492,7 +13492,7 @@ Terry Metcalf,"
 										
 									
 								"
-Amos Lawrence,"
+Amos Lawrence,SF,"
 									
 										
 										
@@ -13595,7 +13595,7 @@ Amos Lawrence,"
 										
 									
 								"
-Kenny Lewis,"
+Kenny Lewis,NYJ,"
 									
 										
 										
@@ -13698,7 +13698,7 @@ Kenny Lewis,"
 										
 									
 								"
-Chester Willis,"
+Chester Willis,OAK,"
 									
 										
 										
@@ -13801,7 +13801,7 @@ Chester Willis,"
 										
 									
 								"
-Robb Riddick,"
+Robb Riddick,BUF,"
 									
 										
 										
@@ -13904,7 +13904,7 @@ Robb Riddick,"
 										
 									
 								"
-Timmy Newsome,"
+Timmy Newsome,DAL,"
 									
 										
 										
@@ -14007,7 +14007,7 @@ Timmy Newsome,"
 										
 									
 								"
-Jimmy Rogers,"
+Jimmy Rogers,NO,"
 									
 										
 										
@@ -14110,7 +14110,7 @@ Jimmy Rogers,"
 										
 									
 								"
-Dave Williams,"
+Dave Williams,CHI,"
 									
 										
 										
@@ -14213,7 +14213,7 @@ Dave Williams,"
 										
 									
 								"
-Don McCauley,"
+Don McCauley,BAL,"
 									
 										
 										
@@ -14316,7 +14316,7 @@ Don McCauley,"
 										
 									
 								"
-Tim Wilson,"
+Tim Wilson,HOU,"
 									
 										
 										
@@ -14419,7 +14419,7 @@ Tim Wilson,"
 										
 									
 								"
-Steve Howell,"
+Steve Howell,MIA,"
 									
 										
 										
@@ -14522,7 +14522,7 @@ Steve Howell,"
 										
 									
 								"
-Robert Newhouse,"
+Robert Newhouse,DAL,"
 									
 										
 										
@@ -14625,7 +14625,7 @@ Robert Newhouse,"
 										
 									
 								"
-Clarence Williams,"
+Clarence Williams,SD,"
 									
 										
 										
@@ -14728,7 +14728,7 @@ Clarence Williams,"
 										
 									
 								"
-Sam Harrell,"
+Sam Harrell,MIN,"
 									
 										
 										
@@ -14831,7 +14831,7 @@ Sam Harrell,"
 										
 									
 								"
-Calvin Hill,"
+Calvin Hill,CLE,"
 									
 										
 										
@@ -14934,7 +14934,7 @@ Calvin Hill,"
 										
 									
 								"
-Bo Robinson,"
+Bo Robinson,ATL,"
 									
 										
 										
@@ -15037,7 +15037,7 @@ Bo Robinson,"
 										
 									
 								"
-Eric Lane,"
+Eric Lane,SEA,"
 									
 										
 										
@@ -15140,7 +15140,7 @@ Eric Lane,"
 										
 									
 								"
-Horace King,"
+Horace King,DET,"
 									
 										
 										
@@ -15243,7 +15243,7 @@ Horace King,"
 										
 									
 								"
-Rickey Claitt,"
+Rickey Claitt,WAS,"
 									
 										
 										
@@ -15346,7 +15346,7 @@ Rickey Claitt,"
 										
 									
 								"
-Clarence Harmon,"
+Clarence Harmon,WAS,"
 									
 										
 										
@@ -15449,7 +15449,7 @@ Clarence Harmon,"
 										
 									
 								"
-Otis Wonsley,"
+Otis Wonsley,WAS,"
 									
 										
 										
@@ -15552,7 +15552,7 @@ Otis Wonsley,"
 										
 									
 								"
-Randy Love,"
+Randy Love,STL,"
 									
 										
 										
@@ -15655,7 +15655,7 @@ Randy Love,"
 										
 									
 								"
-Rick Moser,"
+Rick Moser,PIT,"
 									
 										
 										
@@ -15758,7 +15758,7 @@ Rick Moser,"
 										
 									
 								"
-Scott Stauch,"
+Scott Stauch,NO,"
 									
 										
 										
@@ -15861,7 +15861,7 @@ Scott Stauch,"
 										
 									
 								"
-Eric Torkelson,"
+Eric Torkelson,GB,"
 									
 										
 										
@@ -15964,7 +15964,7 @@ Eric Torkelson,"
 										
 									
 								"
-Hank Bauer,"
+Hank Bauer,SD,"
 									
 										
 										
@@ -16067,7 +16067,7 @@ Hank Bauer,"
 										
 									
 								"
-Willard Harrell,"
+Willard Harrell,STL,"
 									
 										
 										
@@ -16170,7 +16170,7 @@ Willard Harrell,"
 										
 									
 								"
-Ray Strong,"
+Ray Strong,ATL,"
 									
 										
 										
@@ -16273,7 +16273,7 @@ Ray Strong,"
 										
 									
 								"
-Billy Taylor,"
+Billy Taylor,NYJ,"
 									
 										
 										
@@ -16376,7 +16376,7 @@ Billy Taylor,"
 										
 									
 								"
-Tony Davis,"
+Tony Davis,TB,"
 									
 										
 										
@@ -16479,7 +16479,7 @@ Tony Davis,"
 										
 									
 								"
-Andy Johnson,"
+Andy Johnson,NE,"
 									
 										
 										
@@ -16582,7 +16582,7 @@ Andy Johnson,"
 										
 									
 								"
-Mike Williams,"
+Mike Williams,KC,"
 									
 										
 										
