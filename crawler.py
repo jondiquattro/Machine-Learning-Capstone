@@ -17,7 +17,7 @@ def scraper(web, file):
     soup = BeautifulSoup(source, 'lxml')
     csv_file = file
     csv_writer = csv.writer(csv_file) #decides what file to write to
-
+    
 
     body = soup.find('tbody') #returns tbody element with all the rows I need
     playerRow = body.find_all('tr') #returns list of all rows
@@ -29,19 +29,26 @@ def scraper(web, file):
         anchor = playerRow[i].find_all('a')
 
         name = anchor[0].text
-       
-        attempts = right[0].text
-        attemptsPerGame =right[1].text
-        totalYards =right[2].text
-        yardsPerCarry =right[3].text
-        # touchDownsAllYear =right[5].text
-        yardsPerGame= sortedRight[0].text
-        touchDownsAllYear =right[4].text
-        team = anchor[1].text
-        print(team)
-        print(name)
+        
+        attempts = str(right[0].text)
 
-        csv_writer.writerow([name,team,attempts,attemptsPerGame, totalYards, yardsPerCarry, yardsPerGame, touchDownsAllYear])
+        attemptsPerGame =str(right[1].text)
+        totalYards =str(right[2].text)
+
+        
+        yardsPerCarry =str(right[3].text)
+        
+        yardsPerGame= str(sortedRight[0].text)
+
+        touchDownsAllYear = str(right[5].text)
+
+
+        team = str(anchor[1].text)
+        
+        
+    
+
+        csv_writer.writerow([name, str.strip(team), str.strip(attempts),str.strip(attemptsPerGame),str.strip(totalYards.replace(',','')), str.strip(yardsPerCarry), str.strip(yardsPerGame), str.strip(touchDownsAllYear)])
         
 
 def InnerpageCrawler(url, season, file): #this function populates urlArray with urls to crawl
@@ -62,21 +69,22 @@ def InnerpageCrawler(url, season, file): #this function populates urlArray with 
         #call scrape and pass InnernextLink
 
         scraper(InnernextLink, csv_file)
-        print("scraper on inner")
+        # print("scraper on inner")
         
-def pageCrawler(): #this function populates urlArray with urls to crawl
+def pageCrawler(year, finish): #this function populates urlArray with urls to crawl
     
 
-    year = 1981
+    year = year
+    finish = finish + 1
   
-    for year in range(year, 1984):
+    for year in range(year, finish):
         #open file here with name of year.csv
 
         name = str(year)
-        print('file opens' )
+        # print('file opens' )
         csv_file = open(name +'.csv', 'w')
         csv_writer = csv.writer(csv_file)
-        csv_writer.writerow(['Name','team','Attempts', 'Attempts per Game','Total Yards', 'Yards Per Carry','Yards Per Game', 'TDS']) #writes header
+        csv_writer.writerow(['Name','Team','Attempts', 'Attempts per Game','Total Yards', 'Yards Per Carry','Yards Per Game', 'TDS']) #writes header
         
         link = str(year)
             
@@ -85,24 +93,27 @@ def pageCrawler(): #this function populates urlArray with urls to crawl
         # hrefArray.append(nextLink)
         year +=1
         # yearArray.append(year)
-        print(year)
+        # print(year)
 
         #call scrape function and pass next link
         scraper(nextLink, csv_file)
 
-
-        print("scraper on outer")
         InnerpageCrawler(nextLink, link, csv_file)  #this function gets each inner page
-        print("file closes")
+        # print("file closes")
         csv_file.close()
         # print(link)
 
 
 
+
+
 def main():
     
+    # to scrape change the start year to whatever you want
+    start = 1980
+    finish = 1982
 
-    pageCrawler()  #populates array with urls including inner pages
+    pageCrawler(start, finish)  #populates array with urls including inner pages
 
     # csv_file.close()
     
