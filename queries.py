@@ -9,7 +9,6 @@ mydb = mysql.connector.connect(
 
 year =1980
 
-###############needs work
 def teamTableMaker(year):
     for year in range(year, 2018):
 
